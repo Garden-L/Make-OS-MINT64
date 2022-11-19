@@ -1,4 +1,3 @@
-all: BootLoader Disk.img
 
 BootLoader:
 	@echo
